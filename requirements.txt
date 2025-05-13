@@ -3,3 +3,4 @@ scikit-learn
 pickle-mixin
 pytest
 selenium
+streamlit
